@@ -24,7 +24,6 @@ brew 'zlib' # Needed for Memcached
 
 # Development
 brew 'php'
-brew 'php@7.2'
 brew 'composer'
 brew 'mysql'
 brew 'nginx'
@@ -37,7 +36,6 @@ cask 'aerial'
 cask 'alfred'
 cask 'bartender'
 cask 'caffeine'
-cask 'discord'
 cask 'docker'
 cask 'firefox'
 cask 'github'
@@ -52,7 +50,6 @@ cask 'skype'
 cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
-cask 'telegram-desktop'
 cask 'tor-browser'
 cask 'transmission'
 cask 'transmit'
@@ -80,12 +77,6 @@ cask 'font-source-serif-pro'
 
 # Mac App Store
 mas '1Password', id: 1333542190
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
-mas 'Keynote', id: 409183694
-mas 'Sip', id: 507257563
-mas 'Spark', id: 1176895641
 mas 'The Unarchiver', id: 425424353
-mas 'Things', id: 904280696
 mas 'Tweetbot', id: 1384080005
 mas 'WhatsApp', id: 1147396723 
